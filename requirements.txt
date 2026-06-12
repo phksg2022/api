@@ -1,5 +1,7 @@
-streamlit
+flask
 requests
-numpy
 pandas
 datetime
+scikit-learn
+gunicorn
+numpy
